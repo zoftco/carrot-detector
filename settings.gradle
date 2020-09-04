@@ -1,0 +1,2 @@
+rootProject.name = 'Carrot Detector'
+include ':app' ,':tensorflow-lite'
